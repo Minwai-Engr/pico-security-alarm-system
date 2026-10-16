@@ -1,6 +1,7 @@
 # pico-security-alarm-system
 Raspberry Pi Pico-based lighting and security alarm system developed using MicroPython
-Project Overview
+
+#Project Overview
 
 The Enhanced Lighting and Security Alarm System is an embedded systems project developed using a Raspberry Pi Pico and MicroPython.
 
@@ -8,9 +9,9 @@ The system integrates multiple sensors and electronic components to monitor moti
 
 The project involved embedded programming, hardware integration, circuit prototyping, troubleshooting, functional testing, and technical documentation.
 
-Technologies and Components
+#Technologies and Components
 
-Programming Language
+#Programming Language
 
 MicroPython
 
@@ -36,7 +37,7 @@ Thonny IDE
 
 System Functionality
 
-The system combines several functions:
+#The system combines several functions:
 
 Motion Detection: A PIR sensor detects movement within the monitored area.
 
@@ -50,7 +51,7 @@ Audible Alerts: A buzzer provides an alarm response when required.
 
 The Raspberry Pi Pico processes sensor inputs and controls the system's responses through MicroPython.
 
-My Contributions
+#My Contributions
 
 As the primary MicroPython programmer for the team, I:
 
@@ -66,7 +67,7 @@ Conducted functional testing to verify sensor responses and alarm operation.
 
 Contributed to project documentation and the final presentation.
 
-Engineering Skills Demonstrated
+#Engineering Skills Demonstrated
 
 Embedded systems programming
 
@@ -100,7 +101,7 @@ System Flowchart: Overview of the control logic and system responses.
 
 Project Report: Engineering design, implementation, and testing documentation.
 
-Project Outcome
+#Project Outcome
 
 The team developed and tested a Raspberry Pi Pico-based lighting and security alarm prototype that combined motion sensing, door monitoring, RFID authentication, and alarm functions.
 
